@@ -1,0 +1,44 @@
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.exe.config
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.exe
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.pdb
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Form1.resources
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Properties.Resources.resources
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csproj.GenerateResource.cache
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.exe
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.pdb
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.FCFS.resources
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csprojAssemblyReference.cache
+C:\Users\Yousif\source\repos\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.round_robin.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.exe.config
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.exe
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.pdb
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.FCFS.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Form1.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Nonpre_priority.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.round_robin.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.exe
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.pdb
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.prem_priority.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.SJF.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.SJF_prem.resources
+C:\Users\user\OneDrive\Desktop\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csprojAssemblyReference.cache
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.exe.config
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.exe
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\bin\Debug\Process_schdeuling.pdb
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csprojAssemblyReference.cache
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.FCFS.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Form1.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Nonpre_priority.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.prem_priority.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.round_robin.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.Properties.Resources.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.SJF.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.SJF_prem.resources
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csproj.GenerateResource.cache
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.exe
+C:\Users\Yousif\Desktop\os project\Process_schdeuling\Process_schdeuling\obj\Debug\Process_schdeuling.pdb
